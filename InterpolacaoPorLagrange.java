@@ -1,5 +1,7 @@
 import java.util.*;
 //import jfreechart.src.main.java.org.jfree.*;
+// Data de criação:22/06/2021
+// Autores: Gabriel Barbosa da Silva e Gabriel de Lara Ribeiro
 
 public class InterpolacaoPorLagrange{
 
